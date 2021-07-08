@@ -1,2 +1,2 @@
 # marketapalkoskova
-Website for teacher of german language. Available from: http://marketapalkoskova.wz.cz
+Website for teacher of German language. Available from: http://marketapalkoskova.wz.cz
